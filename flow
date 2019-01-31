@@ -1,0 +1,3 @@
+flowers=['rose','lily','jasmine','lotus']
+for i,value in enumerate(flowers):
+	print(i,value)
